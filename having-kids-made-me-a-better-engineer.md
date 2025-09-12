@@ -11,6 +11,11 @@ theme: king
   border-bottom: 2px solid rgb(51, 102, 255)
 }
 
+section.smaller-text {
+  font-size: 0.5rem;
+  color: red;
+}
+
 section.bottom-center {
   display: flex;
   flex-direction: column;
@@ -37,35 +42,37 @@ section.center-content {
 
 </style>
 
-# How having kids made me a better engineer
+# Having kids made me a better engineer
 
 Matt Merrill
 
 ---
 
-# Because I'm a engineer that likes plain text 🤓 ...
+![w:1200](images/matt-metal.jpg)
 
-This presentation is written in Markdown and compiled using [Marp](https://marp.app/)
+<!-- _style: bottom-center -->
+You may know me from being loud in slack, Town Halls or #metal.
+
+---
+
+# I like plain text 🤓 ...
+
+## This presentation is written in Markdown and compiled using [Marp](https://marp.app/)
+
+### It's not stylish but it's got pure, semantic content (😍) Git-able, and styleable.
 
 Source available on [Github](https://github.com/theothermattm/presentation-how-having-kids-made-me-a-better-engineer)
 
 ---
 
-![bg fit](images/matt-metal.jpg)
-
-<!-- _class: bottom-center -->
-<!-- _color: white -->
-You may remember be from #metal or being loud in slack.
-
----
-
 # Before I start ...
 
-No judgements here.
+No judgements.
 
 ---
 
 # I never thought I'd have kids...
+
 ![h:500px](images/matt-sipping-drink.jpg)
 
 ---
@@ -128,23 +135,37 @@ No judgements here.
 
 ![bg right:50%](images/on-parenthood-atwood.jpg)
 
----
-
-# So how'd it affect me as an engineer?
-
-#1 - Perspective
+<!-- _class: smaller-text -->
+([Read the full article](https://blog.codinghorror.com/on-parenthood/), it's fun.)
 
 ---
 
 # So what's all this about kids and work then?
 
-Everything other than kids got easier
+When I had kids everything else seemed easier.
 
 ---
 
-# So what's all this about kids and work then?
+# Yeah, no shit. What else?
 
-#2 - Perspective
+Perspective.
+
+<!-- _class: cool-list -->
+
+1. *Sometimes details matter.*
+2. *But, often they really don't.*
+3. *Shipped is better than perfect.*
+   
+---
+
+# "I can do that, but..."
+
+aka "No."
+
+![w:500](images/essentialism.jpg)
+
+##### ["Essentialism" by Greg McKeown](https://www.amazon.com/Essentialism-Disciplined-Pursuit-Greg-McKeown/dp/0804137404)
+
 
 ---
 

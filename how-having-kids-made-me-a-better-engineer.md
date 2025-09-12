@@ -43,11 +43,11 @@ Matt Merrill
 
 ---
 
-# Because I'm a engineer that likes plain text ...
+# Because I'm a engineer that likes plain text 🤓 ...
 
-This deck is written in Markdown using [Marp](https://marp.app/)
+This presentation is written in Markdown and compiled using [Marp](https://marp.app/)
 
-Source available on Github.
+Source available on [Github](https://github.com/theothermattm/presentation-how-having-kids-made-me-a-better-engineer)
 
 ---
 

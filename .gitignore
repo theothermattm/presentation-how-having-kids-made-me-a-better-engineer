@@ -1,0 +1,5 @@
+**/*.html
+**/*.pdf
+images/** 
+!images/README.md
+!images/on-parenthood-atwood.jpg

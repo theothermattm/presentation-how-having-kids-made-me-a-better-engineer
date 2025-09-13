@@ -8,6 +8,20 @@ To compile this, you'll need to install Marp and the theme in the appropriate sp
   ],
 ```
 
+Or, use the [marp-cli](https://github.com/marp-team/marp-cli), create a .marprc like this:
+
+``
+{
+  "themeSet": ["../marpthemes/king.css"]
+}
+``
+
+Then, in the parent directory:
+
+```
+mkdir -p marpthemes || wget https://cunhapaulo.github.io/style/king.css
+```
+
 Shield: [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
 
 This work is licensed under a

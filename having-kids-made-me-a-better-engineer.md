@@ -154,6 +154,11 @@ No judgments.
 
 <div>
 
+![w:500px](images/elsa-and-austin-grass.jpg)
+</div>
+
+<div>
+
 ![w:500](images/santa-hats.jpg)
 </div>
 
@@ -228,6 +233,8 @@ Perspective.
 2. *But, often they really don't.*
 
 ---
+
+<!-- transition: fade .5s -->
 
 # Yeah, no shit. What else?
 

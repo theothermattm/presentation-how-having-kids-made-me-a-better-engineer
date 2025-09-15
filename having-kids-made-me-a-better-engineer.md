@@ -141,9 +141,77 @@ No judgments.
 
 </div>
 
+---
+
+... And this is absolutely true
+
+![bg right:50%](images/on-parenthood-atwood.jpg)
+
+([Read the full article](https://blog.codinghorror.com/on-parenthood/), it's fun.)
+
+---
+
+<!-- transition: drop .7s -->
+
+# So what's all this about kids and work then?
+
+After I had my first kid, everything else seemed easier. In my personal life _and_ work life.
+
+---
+
+<!-- transition: implode -->
+
+# Yeah, no shit. What else?
+
+Perspective.
+
+---
+
+# Yeah, no shit. What else?
+
+
+Perspective.
+
+<!-- _class: cool-list -->
+
+1. *Sometimes details don't matter. My kids helped me figure out when they really do.*
+
+---
+
+# Yeah, no shit. What else?
+
+Perspective.
+
+<!-- _class: cool-list -->
+
+1. *Sometimes details don't matter. My kids helped me figure out when they really do.*
+2. *Sometimes I'm better off taking a risk and learning than agonizing over decisions.*
+
+---
+
+# Yeah, no shit. What else?
+
+Perspective.
+
+<!-- _class: cool-list -->
+
+1. *Sometimes details don't matter. My kids helped me figure out when they really do.*
+2. *Sometimes I'm better off taking a risk and learning than agonizing over decisions.*
+3. *Shipped is better than perfect.*
+
+---
+
+# The art of saying "No."
+
+## aka "I would love to do that, but..."
+
+![w:500](images/essentialism.jpg)
+
+["Essentialism" by Greg McKeown](https://www.amazon.com/Essentialism-Disciplined-Pursuit-Greg-McKeown/dp/0804137404)
+
 --- 
 
-# They became tiny people ...
+# Epilogue: Those babies became tiny people ...
 
 <div class="columns centered-columns">
 
@@ -182,79 +250,6 @@ No judgments.
 
 </div>
 
----
-
-... And this is absolutely true
-
-![bg right:50%](images/on-parenthood-atwood.jpg)
-
-([Read the full article](https://blog.codinghorror.com/on-parenthood/), it's fun.)
-
----
-
-<!-- transition: drop .7s -->
-
-# So what's all this about kids and work then?
-
-When I had kids everything else seemed easier.
-
----
-
-<!-- transition: drop .4s -->
-
-# Yeah, no shit. What else?
-
-Perspective.
-
----
-
-<!-- transition: drop .4s -->
-
-# Yeah, no shit. What else?
-
-
-Perspective.
-
-<!-- _class: cool-list -->
-
-1. *Sometimes details matter.*
-
----
-
-<!-- transition: drop .4s -->
-
-# Yeah, no shit. What else?
-
-Perspective.
-
-<!-- _class: cool-list -->
-
-1. *Sometimes details matter.*
-2. *But, often they really don't.*
-
----
-
-<!-- transition: fade .5s -->
-
-# Yeah, no shit. What else?
-
-Perspective.
-
-<!-- _class: cool-list -->
-
-1. *Sometimes details matter.*
-2. *But, often they really don't.*
-3. *Shipped is better than perfect.*
-
----
-
-# "I can do that, but..."
-
-## aka "No."
-
-![w:500](images/essentialism.jpg)
-
-["Essentialism" by Greg McKeown](https://www.amazon.com/Essentialism-Disciplined-Pursuit-Greg-McKeown/dp/0804137404)
 
 
 ---
